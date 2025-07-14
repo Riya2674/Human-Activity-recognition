@@ -16,7 +16,8 @@ Human-Activity-Recognition-RF/
 │    ├── X_test.txt
 │    ├── y_test.txt
 │
-├── human_activity_recognition.ipynb     
+├── human_activity_recognition.ipynb
+├── human_activity_recognition.py    
 ├── README.md                        
 ├── requirements.txt                  
 ```
